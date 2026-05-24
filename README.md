@@ -143,3 +143,8 @@ Os testes estão organizados no projeto `tests/Nous.Management.Tests` e cobrem:
 - Testes unitários de controller com Moq.
 - Testes de integração dos endpoints com `WebApplicationFactory`.
 - Cenários de sucesso, autenticação e erro.
+
+
+
+
+VIDEO: https://www.youtube.com/watch?v=y3Gp0zc8jjo
