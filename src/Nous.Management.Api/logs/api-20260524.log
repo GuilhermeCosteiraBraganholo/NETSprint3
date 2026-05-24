@@ -1,0 +1,355 @@
+2026-05-24 16:39:18.054 -03:00 [INF] User profile is available. Using 'C:\Users\Administrador\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-05-24 16:39:18.135 -03:00 [INF] Now listening on: http://localhost:5080
+2026-05-24 16:39:18.137 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-24 16:39:18.137 -03:00 [INF] Hosting environment: Development
+2026-05-24 16:39:18.138 -03:00 [INF] Content root path: C:\Users\Administrador\Downloads\NETSprint3-master (1)\NETSprint3-master\final_nous\src\Nous.Management.Api
+2026-05-24 16:39:54.890 -03:00 [INF] Application is shutting down...
+2026-05-24 16:42:00.062 -03:00 [INF] User profile is available. Using 'C:\Users\Administrador\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-05-24 16:42:00.141 -03:00 [INF] Now listening on: http://localhost:5080
+2026-05-24 16:42:00.142 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-24 16:42:00.143 -03:00 [INF] Hosting environment: Development
+2026-05-24 16:42:00.144 -03:00 [INF] Content root path: C:\Users\Administrador\Downloads\NETSprint3-master (1)\NETSprint3-master\final_nous\src\Nous.Management.Api
+2026-05-24 16:43:48.195 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger - null null
+2026-05-24 16:43:48.215 -03:00 [INF] HTTP GET /swagger responded 301 in 7.4582 ms
+2026-05-24 16:43:48.221 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger - 301 0 null 33.9406ms
+2026-05-24 16:43:48.236 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-05-24 16:43:48.268 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 29.9093 ms
+2026-05-24 16:43:48.270 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 34.5617ms
+2026-05-24 16:43:48.283 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/swagger-ui.css - null null
+2026-05-24 16:43:48.284 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/swagger-ui-bundle.js - null null
+2026-05-24 16:43:48.285 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/swagger-ui-standalone-preset.js - null null
+2026-05-24 16:43:48.302 -03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-05-24 16:43:48.307 -03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-05-24 16:43:48.302 -03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-05-24 16:43:48.308 -03:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 11.7746 ms
+2026-05-24 16:43:48.310 -03:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 18.0065 ms
+2026-05-24 16:43:48.312 -03:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 22.3718 ms
+2026-05-24 16:43:48.315 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/swagger-ui-standalone-preset.js - 200 312163 text/javascript 30.1521ms
+2026-05-24 16:43:48.319 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/swagger-ui-bundle.js - 200 1061536 text/javascript 34.7023ms
+2026-05-24 16:43:48.321 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/swagger-ui.css - 200 144929 text/css 38.2512ms
+2026-05-24 16:43:48.420 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-05-24 16:43:48.428 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/favicon-32x32.png - null null
+2026-05-24 16:43:48.431 -03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-05-24 16:43:48.433 -03:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 2.3689 ms
+2026-05-24 16:43:48.435 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/favicon-32x32.png - 200 628 image/png 6.9667ms
+2026-05-24 16:43:48.469 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 47.2175 ms
+2026-05-24 16:43:48.471 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 51.2627ms
+2026-05-24 16:44:21.431 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/health - null null
+2026-05-24 16:44:21.456 -03:00 [INF] Executing endpoint 'Health checks'
+2026-05-24 16:44:21.469 -03:00 [INF] Executed endpoint 'Health checks'
+2026-05-24 16:44:21.471 -03:00 [INF] HTTP GET /health responded 200 in 32.2533 ms
+2026-05-24 16:44:21.477 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/health - 200 null application/json; charset=utf-8 45.6614ms
+2026-05-24 16:44:21.560 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/favicon.ico - null null
+2026-05-24 16:44:21.563 -03:00 [INF] HTTP GET /favicon.ico responded 404 in 0.7166 ms
+2026-05-24 16:44:21.565 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/favicon.ico - 404 0 null 5.63ms
+2026-05-24 16:44:21.570 -03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5080/favicon.ico, Response status code: 404
+2026-05-24 16:45:57.583 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 55
+2026-05-24 16:45:57.588 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:45:57.597 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:45:57.611 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:45:57.614 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.UnauthorizedObjectResult in 0.6714ms.
+2026-05-24 16:45:57.617 -03:00 [INF] Executing UnauthorizedObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-05-24 16:45:57.620 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 20.6256ms
+2026-05-24 16:45:57.621 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:45:57.622 -03:00 [INF] HTTP POST /api/Auth/login responded 401 in 35.3250 ms
+2026-05-24 16:45:57.624 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 401 null application/json; charset=utf-8 40.4417ms
+2026-05-24 16:46:01.116 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 55
+2026-05-24 16:46:01.119 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:46:01.121 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:46:01.123 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:46:01.124 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.UnauthorizedObjectResult in 0.0206ms.
+2026-05-24 16:46:01.125 -03:00 [INF] Executing UnauthorizedObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-05-24 16:46:01.127 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 4.4799ms
+2026-05-24 16:46:01.128 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:46:01.129 -03:00 [INF] HTTP POST /api/Auth/login responded 401 in 10.1947 ms
+2026-05-24 16:46:01.131 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 401 null application/json; charset=utf-8 14.648ms
+2026-05-24 16:46:11.089 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:46:11.094 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:46:11.097 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:46:11.097 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 5.8376 ms
+2026-05-24 16:46:11.100 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 401 0 null 11.3066ms
+2026-05-24 16:46:15.537 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:46:15.542 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:46:15.544 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:46:15.546 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 4.8052 ms
+2026-05-24 16:46:15.550 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 401 0 null 13.1485ms
+2026-05-24 16:46:24.054 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:46:24.058 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:46:24.059 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:46:24.059 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 2.8841 ms
+2026-05-24 16:46:24.061 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 401 0 null 6.5607ms
+2026-05-24 16:46:29.919 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:46:29.923 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:46:29.924 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:46:29.925 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 2.3604 ms
+2026-05-24 16:46:29.928 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 401 0 null 8.6945ms
+2026-05-24 16:46:54.658 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 55
+2026-05-24 16:46:54.661 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:46:54.662 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:46:54.663 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:46:54.664 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.UnauthorizedObjectResult in 0.0068ms.
+2026-05-24 16:46:54.666 -03:00 [INF] Executing UnauthorizedObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-05-24 16:46:54.667 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 3.3053ms
+2026-05-24 16:46:54.668 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:46:54.668 -03:00 [INF] HTTP POST /api/Auth/login responded 401 in 7.7486 ms
+2026-05-24 16:46:54.670 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 401 null application/json; charset=utf-8 11.3361ms
+2026-05-24 16:47:39.494 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 54
+2026-05-24 16:47:39.496 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:47:39.498 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:47:39.499 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:47:39.500 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.UnauthorizedObjectResult in 0.0069ms.
+2026-05-24 16:47:39.501 -03:00 [INF] Executing UnauthorizedObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-05-24 16:47:39.502 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 2.9997ms
+2026-05-24 16:47:39.503 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:47:39.504 -03:00 [INF] HTTP POST /api/Auth/login responded 401 in 7.7772 ms
+2026-05-24 16:47:39.505 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 401 null application/json; charset=utf-8 10.8813ms
+2026-05-24 16:47:41.380 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 54
+2026-05-24 16:47:41.382 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:47:41.383 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:47:41.385 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:47:41.386 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.UnauthorizedObjectResult in 0.0068ms.
+2026-05-24 16:47:41.387 -03:00 [INF] Executing UnauthorizedObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-05-24 16:47:41.388 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 3.358ms
+2026-05-24 16:47:41.390 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:47:41.391 -03:00 [INF] HTTP POST /api/Auth/login responded 401 in 8.4032 ms
+2026-05-24 16:47:41.392 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 401 null application/json; charset=utf-8 12.4213ms
+2026-05-24 16:48:44.013 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 52
+2026-05-24 16:48:44.016 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:48:44.017 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:48:44.020 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:48:44.040 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 18.4008ms.
+2026-05-24 16:48:44.042 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.LoginResponse'.
+2026-05-24 16:48:44.046 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 26.0501ms
+2026-05-24 16:48:44.047 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:48:44.048 -03:00 [INF] HTTP POST /api/Auth/login responded 200 in 32.2575 ms
+2026-05-24 16:48:44.050 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 200 null application/json; charset=utf-8 37.373ms
+2026-05-24 16:49:17.962 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:49:17.975 -03:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+ ---> Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14121: JWT is not a well formed JWE, there are there must be four dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(String encodedJson)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+   --- End of inner exception stack trace ---
+2026-05-24 16:49:17.981 -03:00 [INF] Bearer was not authenticated. Failure message: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+2026-05-24 16:49:17.982 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:49:17.983 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:49:17.984 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 14.1669 ms
+2026-05-24 16:49:17.986 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 401 0 null 23.398ms
+2026-05-24 16:49:26.082 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:49:26.088 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:49:26.089 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:49:26.091 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 2.9996 ms
+2026-05-24 16:49:26.093 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 401 0 null 11.1172ms
+2026-05-24 16:49:55.067 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:49:55.075 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:49:55.077 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:49:55.083 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 8.4790 ms
+2026-05-24 16:49:55.086 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 401 0 null 19.7425ms
+2026-05-24 16:51:05.157 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Metrics - null null
+2026-05-24 16:51:05.175 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api)'
+2026-05-24 16:51:05.176 -03:00 [INF] Route matched with {action = "GetMetricsSnapshot", controller = "Metrics"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetMetricsSnapshot() on controller Nous.Management.Api.Controllers.MetricsController (Nous.Management.Api).
+2026-05-24 16:51:05.178 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:51:05.179 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.3157ms.
+2026-05-24 16:51:05.180 -03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[<>f__AnonymousType2`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Nous.Management.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-05-24 16:51:05.183 -03:00 [INF] Executed action Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api) in 5.6107ms
+2026-05-24 16:51:05.185 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api)'
+2026-05-24 16:51:05.185 -03:00 [INF] HTTP GET /api/Metrics responded 200 in 24.0867 ms
+2026-05-24 16:51:05.187 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Metrics - 200 null application/json; charset=utf-8 29.6379ms
+2026-05-24 16:51:35.963 -03:00 [INF] Application is shutting down...
+2026-05-24 16:52:12.709 -03:00 [INF] User profile is available. Using 'C:\Users\Administrador\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-05-24 16:52:12.785 -03:00 [INF] Now listening on: http://localhost:5080
+2026-05-24 16:52:12.786 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-24 16:52:12.787 -03:00 [INF] Hosting environment: Development
+2026-05-24 16:52:12.788 -03:00 [INF] Content root path: C:\Users\Administrador\Downloads\NETSprint3-master (1)\NETSprint3-master\final_nous\src\Nous.Management.Api
+2026-05-24 16:52:23.518 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-05-24 16:52:23.567 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 36.9374 ms
+2026-05-24 16:52:23.570 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 61.1363ms
+2026-05-24 16:52:23.692 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-05-24 16:52:23.742 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 44.8415 ms
+2026-05-24 16:52:23.744 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 52.1846ms
+2026-05-24 16:52:27.831 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/health - null null
+2026-05-24 16:52:27.853 -03:00 [INF] Executing endpoint 'Health checks'
+2026-05-24 16:52:27.865 -03:00 [INF] Executed endpoint 'Health checks'
+2026-05-24 16:52:27.867 -03:00 [INF] HTTP GET /health responded 200 in 26.1031 ms
+2026-05-24 16:52:27.869 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/health - 200 null application/json; charset=utf-8 37.4688ms
+2026-05-24 16:52:36.636 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 52
+2026-05-24 16:52:36.640 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:52:36.648 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:52:36.660 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:52:36.673 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 10.2061ms.
+2026-05-24 16:52:36.677 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.LoginResponse'.
+2026-05-24 16:52:36.682 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 30.3253ms
+2026-05-24 16:52:36.683 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:52:36.683 -03:00 [INF] HTTP POST /api/Auth/login responded 200 in 43.8670 ms
+2026-05-24 16:52:36.684 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 200 null application/json; charset=utf-8 47.9846ms
+2026-05-24 16:52:50.215 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:52:50.226 -03:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+ ---> Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14121: JWT is not a well formed JWE, there are there must be four dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(String encodedJson)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+   --- End of inner exception stack trace ---
+2026-05-24 16:52:50.231 -03:00 [INF] Bearer was not authenticated. Failure message: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+2026-05-24 16:52:50.234 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:52:50.237 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:52:50.238 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 17.1581 ms
+2026-05-24 16:52:50.239 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 401 0 null 24.5509ms
+2026-05-24 16:52:58.638 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:52:58.643 -03:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+ ---> Microsoft.IdentityModel.Tokens.SecurityTokenMalformedException: IDX14121: JWT is not a well formed JWE, there are there must be four dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(String encodedJson)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+   --- End of inner exception stack trace ---
+2026-05-24 16:52:58.645 -03:00 [INF] Bearer was not authenticated. Failure message: IDX14100: JWT is not well formed, there are no dots (.).
+The token needs to be in JWS or JWE Compact Serialization Format. (JWS): 'EncodedHeader.EndcodedPayload.EncodedSignature'. (JWE): 'EncodedProtectedHeader.EncodedEncryptedKey.EncodedInitializationVector.EncodedCiphertext.EncodedAuthenticationTag'.
+2026-05-24 16:52:58.647 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:52:58.648 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:52:58.650 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 7.1283 ms
+2026-05-24 16:52:58.652 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 401 0 null 14.0903ms
+2026-05-24 16:53:22.037 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:53:22.053 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:53:22.055 -03:00 [INF] Route matched with {action = "GetOverview", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetOverview() on controller Nous.Management.Api.Controllers.DashboardController (Nous.Management.Api).
+2026-05-24 16:53:22.056 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:53:22.058 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.5123ms.
+2026-05-24 16:53:22.059 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.DashboardOverviewResponse'.
+2026-05-24 16:53:22.061 -03:00 [INF] Executed action Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) in 4.5681ms
+2026-05-24 16:53:22.062 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:53:22.063 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 200 in 22.6774 ms
+2026-05-24 16:53:22.064 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 200 null application/json; charset=utf-8 26.4081ms
+2026-05-24 16:53:24.557 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:53:24.560 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:53:24.561 -03:00 [INF] Route matched with {action = "GetOverview", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetOverview() on controller Nous.Management.Api.Controllers.DashboardController (Nous.Management.Api).
+2026-05-24 16:53:24.563 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:53:24.564 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0214ms.
+2026-05-24 16:53:24.566 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.DashboardOverviewResponse'.
+2026-05-24 16:53:24.567 -03:00 [INF] Executed action Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) in 3.6995ms
+2026-05-24 16:53:24.568 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:53:24.569 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 200 in 9.3874 ms
+2026-05-24 16:53:24.571 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 200 null application/json; charset=utf-8 14.1452ms
+2026-05-24 16:53:41.040 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/risk-students - null null
+2026-05-24 16:53:41.043 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api)'
+2026-05-24 16:53:41.045 -03:00 [INF] Route matched with {action = "GetRiskStudents", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetRiskStudents() on controller Nous.Management.Api.Controllers.DashboardController (Nous.Management.Api).
+2026-05-24 16:53:41.046 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:53:41.048 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.3944ms.
+2026-05-24 16:53:41.049 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Nous.Management.Api.Models.RiskStudentResponse, Nous.Management.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-05-24 16:53:41.052 -03:00 [INF] Executed action Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api) in 5.8645ms
+2026-05-24 16:53:41.053 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api)'
+2026-05-24 16:53:41.054 -03:00 [INF] HTTP GET /api/Dashboard/risk-students responded 200 in 11.5439 ms
+2026-05-24 16:53:41.055 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/risk-students - 200 null application/json; charset=utf-8 15.4841ms
+2026-05-24 16:53:42.503 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/risk-students - null null
+2026-05-24 16:53:42.505 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api)'
+2026-05-24 16:53:42.506 -03:00 [INF] Route matched with {action = "GetRiskStudents", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetRiskStudents() on controller Nous.Management.Api.Controllers.DashboardController (Nous.Management.Api).
+2026-05-24 16:53:42.507 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:53:42.508 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0182ms.
+2026-05-24 16:53:42.510 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Nous.Management.Api.Models.RiskStudentResponse, Nous.Management.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-05-24 16:53:42.511 -03:00 [INF] Executed action Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api) in 3.447ms
+2026-05-24 16:53:42.512 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api)'
+2026-05-24 16:53:42.512 -03:00 [INF] HTTP GET /api/Dashboard/risk-students responded 200 in 7.6869 ms
+2026-05-24 16:53:42.514 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/risk-students - 200 null application/json; charset=utf-8 11.175ms
+2026-05-24 16:53:47.561 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Metrics - null null
+2026-05-24 16:53:47.563 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api)'
+2026-05-24 16:53:47.564 -03:00 [INF] Route matched with {action = "GetMetricsSnapshot", controller = "Metrics"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetMetricsSnapshot() on controller Nous.Management.Api.Controllers.MetricsController (Nous.Management.Api).
+2026-05-24 16:53:47.566 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:53:47.567 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.4918ms.
+2026-05-24 16:53:47.568 -03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[<>f__AnonymousType2`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Nous.Management.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-05-24 16:53:47.571 -03:00 [INF] Executed action Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api) in 5.1724ms
+2026-05-24 16:53:47.572 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api)'
+2026-05-24 16:53:47.573 -03:00 [INF] HTTP GET /api/Metrics responded 200 in 10.0015 ms
+2026-05-24 16:53:47.574 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Metrics - 200 null application/json; charset=utf-8 13.3869ms
+2026-05-24 16:53:51.123 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/ - null null
+2026-05-24 16:53:51.126 -03:00 [INF] Executing endpoint 'HTTP: GET /'
+2026-05-24 16:53:51.139 -03:00 [INF] Executing RedirectResult, redirecting to /swagger.
+2026-05-24 16:53:51.140 -03:00 [INF] Executed endpoint 'HTTP: GET /'
+2026-05-24 16:53:51.141 -03:00 [INF] HTTP GET / responded 302 in 14.9242 ms
+2026-05-24 16:53:51.142 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/ - 302 0 null 19.1779ms
+2026-05-24 16:53:51.145 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-05-24 16:53:51.147 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 0.2340 ms
+2026-05-24 16:53:51.148 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 3.0642ms
+2026-05-24 16:53:58.867 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/index.html - null null
+2026-05-24 16:53:58.869 -03:00 [INF] HTTP GET /swagger/index.html responded 200 in 0.2215 ms
+2026-05-24 16:53:58.871 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/index.html - 200 null text/html;charset=utf-8 4.1397ms
+2026-05-24 16:53:58.978 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - null null
+2026-05-24 16:53:58.985 -03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.9327 ms
+2026-05-24 16:53:58.988 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.9284ms
+2026-05-24 16:54:12.163 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 52
+2026-05-24 16:54:12.166 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:54:12.167 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:54:12.169 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:54:12.170 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.1294ms.
+2026-05-24 16:54:12.171 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.LoginResponse'.
+2026-05-24 16:54:12.172 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 4.0346ms
+2026-05-24 16:54:12.173 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:54:12.174 -03:00 [INF] HTTP POST /api/Auth/login responded 200 in 8.2532 ms
+2026-05-24 16:54:12.175 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 200 null application/json; charset=utf-8 12.38ms
+2026-05-24 16:54:13.653 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5080/api/Auth/login - application/json 52
+2026-05-24 16:54:13.655 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:54:13.656 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:54:13.658 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:54:13.659 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.097ms.
+2026-05-24 16:54:13.660 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.LoginResponse'.
+2026-05-24 16:54:13.661 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 3.501ms
+2026-05-24 16:54:13.663 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:54:13.664 -03:00 [INF] HTTP POST /api/Auth/login responded 200 in 9.1869 ms
+2026-05-24 16:54:13.665 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5080/api/Auth/login - 200 null application/json; charset=utf-8 12.5265ms
+2026-05-24 16:54:33.287 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:54:33.295 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:54:33.296 -03:00 [INF] Route matched with {action = "GetOverview", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetOverview() on controller Nous.Management.Api.Controllers.DashboardController (Nous.Management.Api).
+2026-05-24 16:54:33.297 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:54:33.298 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0083ms.
+2026-05-24 16:54:33.301 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.DashboardOverviewResponse'.
+2026-05-24 16:54:33.303 -03:00 [INF] Executed action Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) in 5.676ms
+2026-05-24 16:54:33.304 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:54:33.305 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 200 in 11.3310 ms
+2026-05-24 16:54:33.307 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 200 null application/json; charset=utf-8 19.5035ms
+2026-05-24 16:54:36.428 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - null null
+2026-05-24 16:54:36.431 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:54:36.432 -03:00 [INF] Route matched with {action = "GetOverview", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetOverview() on controller Nous.Management.Api.Controllers.DashboardController (Nous.Management.Api).
+2026-05-24 16:54:36.434 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:54:36.434 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0081ms.
+2026-05-24 16:54:36.436 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.DashboardOverviewResponse'.
+2026-05-24 16:54:36.437 -03:00 [INF] Executed action Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) in 3.1629ms
+2026-05-24 16:54:36.438 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:54:36.439 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 200 in 8.4119 ms
+2026-05-24 16:54:36.440 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/overview - 200 null application/json; charset=utf-8 12.4281ms
+2026-05-24 16:54:41.785 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Dashboard/risk-students - null null
+2026-05-24 16:54:41.788 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api)'
+2026-05-24 16:54:41.790 -03:00 [INF] Route matched with {action = "GetRiskStudents", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetRiskStudents() on controller Nous.Management.Api.Controllers.DashboardController (Nous.Management.Api).
+2026-05-24 16:54:41.792 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:54:41.793 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0076ms.
+2026-05-24 16:54:41.794 -03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Nous.Management.Api.Models.RiskStudentResponse, Nous.Management.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-05-24 16:54:41.795 -03:00 [INF] Executed action Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api) in 3.4152ms
+2026-05-24 16:54:41.797 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.DashboardController.GetRiskStudents (Nous.Management.Api)'
+2026-05-24 16:54:41.798 -03:00 [INF] HTTP GET /api/Dashboard/risk-students responded 200 in 10.0915 ms
+2026-05-24 16:54:41.800 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Dashboard/risk-students - 200 null application/json; charset=utf-8 15.7173ms
+2026-05-24 16:54:47.533 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5080/api/Metrics - null null
+2026-05-24 16:54:47.536 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api)'
+2026-05-24 16:54:47.537 -03:00 [INF] Route matched with {action = "GetMetricsSnapshot", controller = "Metrics"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetMetricsSnapshot() on controller Nous.Management.Api.Controllers.MetricsController (Nous.Management.Api).
+2026-05-24 16:54:47.539 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:54:47.540 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0079ms.
+2026-05-24 16:54:47.541 -03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[<>f__AnonymousType2`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Nous.Management.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-05-24 16:54:47.542 -03:00 [INF] Executed action Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api) in 3.4968ms
+2026-05-24 16:54:47.543 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.MetricsController.GetMetricsSnapshot (Nous.Management.Api)'
+2026-05-24 16:54:47.545 -03:00 [INF] HTTP GET /api/Metrics responded 200 in 8.5365 ms
+2026-05-24 16:54:47.546 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5080/api/Metrics - 200 null application/json; charset=utf-8 13.0884ms
+2026-05-24 16:59:52.249 -03:00 [INF] Application is shutting down...

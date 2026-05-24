@@ -1,0 +1,32 @@
+2026-05-24 16:39:12.485 -03:00 [INF] User profile is available. Using 'C:\Users\Administrador\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-05-24 16:39:12.665 -03:00 [INF] Request starting HTTP/1.1 POST http://localhost/api/Auth/login - application/json; charset=utf-8 43
+2026-05-24 16:39:12.716 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:39:12.727 -03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(Nous.Management.Api.Models.LoginRequest) on controller Nous.Management.Api.Controllers.AuthController (Nous.Management.Api).
+2026-05-24 16:39:12.745 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:39:12.762 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 15.0895ms.
+2026-05-24 16:39:12.766 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.LoginResponse'.
+2026-05-24 16:39:12.774 -03:00 [INF] Executed action Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api) in 44.9255ms
+2026-05-24 16:39:12.774 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.AuthController.Login (Nous.Management.Api)'
+2026-05-24 16:39:12.775 -03:00 [INF] HTTP POST /api/Auth/login responded 200 in 90.7026 ms
+2026-05-24 16:39:12.776 -03:00 [INF] Request finished HTTP/1.1 POST http://localhost/api/Auth/login - 200 null application/json; charset=utf-8 128.5035ms
+2026-05-24 16:39:12.779 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Dashboard/overview - null null
+2026-05-24 16:39:12.801 -03:00 [INF] Executing endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:39:12.802 -03:00 [INF] Route matched with {action = "GetOverview", controller = "Dashboard"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetOverview() on controller Nous.Management.Api.Controllers.DashboardController (Nous.Management.Api).
+2026-05-24 16:39:12.802 -03:00 [INF] Executing action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) - Validation state: "Valid"
+2026-05-24 16:39:12.803 -03:00 [INF] Executed action method Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.5536ms.
+2026-05-24 16:39:12.803 -03:00 [INF] Executing OkObjectResult, writing value of type 'Nous.Management.Api.Models.DashboardOverviewResponse'.
+2026-05-24 16:39:12.805 -03:00 [INF] Executed action Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api) in 3.2712ms
+2026-05-24 16:39:12.805 -03:00 [INF] Executed endpoint 'Nous.Management.Api.Controllers.DashboardController.GetOverview (Nous.Management.Api)'
+2026-05-24 16:39:12.805 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 200 in 25.3667 ms
+2026-05-24 16:39:12.805 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Dashboard/overview - 200 null application/json; charset=utf-8 26.6884ms
+2026-05-24 16:39:12.810 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/health - null null
+2026-05-24 16:39:12.812 -03:00 [INF] Executing endpoint 'Health checks'
+2026-05-24 16:39:12.821 -03:00 [INF] Executed endpoint 'Health checks'
+2026-05-24 16:39:12.822 -03:00 [INF] HTTP GET /health responded 200 in 11.7175 ms
+2026-05-24 16:39:12.822 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/health - 200 null application/json; charset=utf-8 12.1574ms
+2026-05-24 16:39:12.823 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost/api/Dashboard/overview - null null
+2026-05-24 16:39:12.825 -03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-24 16:39:12.826 -03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-24 16:39:12.826 -03:00 [INF] HTTP GET /api/Dashboard/overview responded 401 in 2.5420 ms
+2026-05-24 16:39:12.826 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost/api/Dashboard/overview - 401 null null 3.7551ms
